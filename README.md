@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**sunA666/sunA666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+♏♏♏🎤🎤🎤🏃‍♀️🏃‍♀️🏃‍♀️🍔🍨🍑 嗨，欢迎来到我的主页✨
 
-Here are some ideas to get you started:
+我是一名大一电子信息工程专业学生。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 正在学习：C语言、Git、计算机基础
+- 💻 兴趣方向：嵌入式、硬件相关
+- 📝 这个仓库用来记录我的学习过程
+
+📍我的小目标：
+-学好专业课
+-多动手敲代码练习
+ ✨ 📚 💻 📝 🎯 🚀 🛠️ ⚡ 🎓 📌
+欢迎访问我的GitHub，我会慢慢上传练习代码。 ✨ 📚 💻 📝 🎯 🚀 🛠️ ⚡ 🎓 📌
+
